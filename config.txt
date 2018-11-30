@@ -1,0 +1,6 @@
+token=NTE4MTUwMTkyNjcyMDE0MzQ3.DuMksQ.kTmgO3qY-cp567DVBt0_6TsFbs8
+owner=516489170953437184
+prefix=N
+game=Type Nplay
+stayinchannel=true
+songinstatus=true
